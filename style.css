@@ -1,0 +1,30 @@
+div.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50%;
+  border: 3px solid black;
+  padding: 5px;
+  background-color: cadetblue;
+}
+
+.floatright {
+ float: right; 
+ background: blue; 
+ width: 40%; 
+ height: 280px; 
+}
+
+.floatleft {
+  float: left;
+  background: purple;
+  width: 40%;
+  height: 300px;
+}
+
+.horse {
+  position: relative;
+  top: 2000px;
+  left: 300px;
+  border: 3px solid black;
+}
