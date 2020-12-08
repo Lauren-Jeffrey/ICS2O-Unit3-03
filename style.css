@@ -6,13 +6,13 @@ div.fixed {
   border: 3px solid black;
   padding: 5px;
   background-color: cadetblue;
-  }
+}
 
 .floatright {
- float: right;
- background: blue;
- width: 40%;
- height: 280px;
+  float: right;
+  background: blue;
+  width: 40%;
+  height: 280px;
 }
 
 .floatleft {
