@@ -1,4 +1,4 @@
-div.fixed   {
+div.fixed {
   position: fixed;
   top: 0;
   left: 0;
@@ -8,21 +8,21 @@ div.fixed   {
   background-color: cadetblue;
   }
 
-.floatright   {
+.floatright {
  float: right;
  background: blue;
  width: 40%;
  height: 280px;
 }
 
-.floatleft    {
+.floatleft {
   float: left;
   background: purple;
   width: 40%;
   height: 300px;
 }
 
-.horse  {
+.horse {
   position: relative;
   top: 2000px;
   left: 300px;
